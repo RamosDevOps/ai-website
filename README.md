@@ -97,7 +97,7 @@ The deployment workflow runs automatically, but here are the different ways to t
 4. Push to the main branch: `git push origin main`
 5. The workflow will automatically run and deploy your changes
 6. Visit the Actions tab to monitor the deployment progress
-7. Once complete, your changes will be live at: https://ramojog.github.io/ai-website/
+7. Once complete, your changes will be live at: https://RamosDevOps.github.io/ai-website/
 
 #### Manual Trigger
 1. Navigate to the "Actions" tab in your GitHub repository
@@ -124,4 +124,4 @@ The workflow configuration file is located at: `.github/workflows/deploy.yml`
 - **Fast**: Deployments happen within minutes of pushing changes
 
 ### Live Website
-The website is automatically deployed to: https://ramojog.github.io/ai-website/
+The website is automatically deployed to: https://RamosDevOps.github.io/ai-website/
